@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project using CMS Medicare Part D public data to explore drug spending trends, top manufacturers, specialty drug costs, and year-over-year comparisons. Data was loaded into PostgreSQL, queried with SQL, and visualized in an interactive Tableau Public dashboard.
 
-📊 [View the Interactive Dashboard on Tableau Public](YOUR-TABLEAU-URL-HERE)
+📊 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/aaron.pongsugree/viz/MedicareSpendingbyDrug2024/Dashboard1?publish=yes)
 
 ---
 
@@ -80,4 +80,4 @@ The Tableau dashboard includes four panels:
 - Top 10 Highest Cost-Per-Patient Specialty Drugs (2024)
 - Top 5 Drug Spending: 2024 vs 2025 Year-Over-Year Comparison
 
-📊 [View the Interactive Dashboard on Tableau Public](YOUR-TABLEAU-URL-HERE)
+📊 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/aaron.pongsugree/viz/MedicareSpendingbyDrug2024/Dashboard1?publish=yes)
